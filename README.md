@@ -1,2 +1,8 @@
-# WIS-Python-programming-course-2025
-created by Rachel Steinitz-Eliyahu from Sivan Refaely-Abramson's lab
+# Hello, I'm Rachel Steinitz-Eliyahu 
+
+Welcome to my website!
+
+I'm currently in the Refaely-Abramson's lab.
+
+- 🔗 [My GitHub Profile](https://github.com/RachelitaSE)
+- 🧬 [My Lab]([https://www.weizmann.ac.il/MCMS/Sivan/home])
